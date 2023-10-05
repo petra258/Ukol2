@@ -1,0 +1,61 @@
+body {
+  font-family: "Inter", Arial, sans-serif;
+}
+
+.product card {
+  border: 1px solid #000;
+  width: 450px;
+}
+
+.more info {
+  color: #808080;
+  text-decoration: underline;
+}
+
+.product price container {
+  background-color: #ee121240;
+}
+
+.add to card button {
+  background-color: #d9d9d9;
+}
+
+.product details container {
+  background-color: #7fcb5b61;
+}
+
+.product details text {
+  color: #32840c;
+}
+
+.product info {
+  color: #32840c;
+}
+
+.bestseller {
+  color: #fffa87;
+  border-radius: 5px;
+}
+.product of the year {
+  background-color: #ee1212;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.discount {
+  background-color: #ee1212;
+  height: 60px;
+  width: 60 px;
+  border-radius: 50%;
+}
+
+.product-image-container {
+  height: 350px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
